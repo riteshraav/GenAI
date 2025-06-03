@@ -62,7 +62,11 @@ bash
 4. Run: flutter run
 
 📸 Screenshots
-<div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://github.com/user-attachments/assets/bf63e982-c620-490a-ba52-7aee89088a33" alt="AI Image Generation" width="200"> <img src="https://github.com/user-attachments/assets/example2.jpg" alt="PDF Summarization" width="200"> <img src="https://github.com/user-attachments/assets/example3.jpg" alt="Health Research" width="200"> </div>
+![WhatsApp Image 2025-05-14 at 12 54 36_ef0b3edb](https://github.com/user-attachments/assets/d51ba32d-b8ab-462f-b62f-02201612b3c5)
+![WhatsApp Image 2025-05-06 at 01 35 50_5732b577](https://github.com/user-attachments/assets/0f941a36-1090-4f11-9b01-b721fc92d06a)
+![WhatsApp Image 2025-05-14 at 12 54 36_db05484e](https://github.com/user-attachments/assets/63635abf-7b5d-4341-a37c-91e3ffa43eb7)
+
+
 *From left to right:
 
 AI-generated flying boat image
