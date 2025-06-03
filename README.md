@@ -77,9 +77,9 @@ bash
 
 *From left to right:
 
-AI-generated flying boat image
-
 Document summarization feature
+
+AI-generated flying boat image
 
 Health research conversation*
 
