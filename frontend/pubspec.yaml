@@ -1,0 +1,65 @@
+name: arlex_getx
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  flutter_secure_storage: ^9.0.0
+  http: ^1.2.1
+  provider: ^6.1.1
+  lottie: ^3.1.0
+  flutter_svg: ^2.0.10
+  flutter_screenutil: ^5.9.0
+  flutter_markdown: ^0.6.18
+  flutter_gemini: ^2.0.3
+  get: ^4.6.6
+  scrollable_positioned_list: ^0.3.5 # Updated to latest stable version
+  image_picker: ^1.0.8
+  file_picker: ^8.0.0
+  path_provider: ^2.1.1
+  firebase_core: ^2.30.1
+  cloud_firestore: ^4.17.2
+  firebase_auth: ^4.20.0
+  mime: ^1.0.4
+  path: ^1.8.0
+  http_parser: ^4.0.0
+  permission_handler: ^12.0.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^3.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path: "assets/images/wisnolect.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/svgs/
+    - assets/lottie/
+
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Regular.ttf
+        - asset: assets/fonts/Quicksand-Light.ttf
+        - asset: assets/fonts/Quicksand-Bold.ttf
+        - asset: assets/fonts/Quicksand-Medium.ttf
+        - asset: assets/fonts/Quicksand-SemiBold.ttf
+    - family: Quantico
+      fonts:
+        - asset: assets/fonts/Quantico-Regular.ttf
