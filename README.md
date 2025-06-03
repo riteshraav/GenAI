@@ -61,8 +61,15 @@ bash
 3. Connect emulator or device
 4. Run: flutter run
 
-## Screenshots
-![WhatsApp Image 2025-05-14 at 12 54 36_2c31336b](https://github.com/user-attachments/assets/bf63e982-c620-490a-ba52-7aee89088a33)
+📸 Screenshots
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://github.com/user-attachments/assets/bf63e982-c620-490a-ba52-7aee89088a33" alt="AI Image Generation" width="200"> <img src="https://github.com/user-attachments/assets/example2.jpg" alt="PDF Summarization" width="200"> <img src="https://github.com/user-attachments/assets/example3.jpg" alt="Health Research" width="200"> </div>
+*From left to right:
+
+AI-generated flying boat image
+
+Document summarization feature
+
+Health research conversation*
 
 
 ## 🙋‍♂ Author
