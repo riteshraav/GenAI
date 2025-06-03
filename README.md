@@ -61,11 +61,19 @@ bash
 3. Connect emulator or device
 4. Run: flutter run
 
-📸 Screenshots
-![WhatsApp Image 2025-05-14 at 12 54 36_ef0b3edb](https://github.com/user-attachments/assets/d51ba32d-b8ab-462f-b62f-02201612b3c5)
-![WhatsApp Image 2025-05-06 at 01 35 50_5732b577](https://github.com/user-attachments/assets/0f941a36-1090-4f11-9b01-b721fc92d06a)
-![WhatsApp Image 2025-05-14 at 12 54 36_db05484e](https://github.com/user-attachments/assets/63635abf-7b5d-4341-a37c-91e3ffa43eb7)
-
+<h2>📸 Screenshots</h2>
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+">
+  <img src="https://github.com/user-attachments/assets/d51ba32d-b8ab-462f-b62f-02201612b3c5" alt="Screenshot 1" style="width: 250px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <img src="https://github.com/user-attachments/assets/0f941a36-1090-4f11-9b01-b721fc92d06a" alt="Screenshot 2" style="width: 250px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <img src="https://github.com/user-attachments/assets/63635abf-7b5d-4341-a37c-91e3ffa43eb7" alt="Screenshot 3" style="width: 250px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</div>
 
 *From left to right:
 
